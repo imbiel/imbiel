@@ -1,10 +1,8 @@
-# :wave: Opa, bom? :D
+# :wave: Opa, tranquilo? :D
 
 Prazer, meu nome é Gabriel, tenho 20 anos e sou apaixonado por tecnologia. Sou estudante do curso de Sistema de Informações na PUC São Gabriel e atuo como desenvolvedor junior.
 
 Sempre amei tudo o que era relacionado com tecnologia e computadores desde muito cedo e depois que tive meu primeiro contato com a programação foi um caminho sem volta. Desde o início da faculdade até hoje pude aprender e trabalhar com Java e SQL.
-
-Amo desafios e aprender coisas novas.
 
 <hr>
 <div>
